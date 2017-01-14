@@ -1,0 +1,21 @@
+{
+  "name": "mc-log-post",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m7mansfield/mc-log-post.git"
+  },
+  "author": "Michael Mansfield",
+  "license": "MIT",
+  "dependencies": {
+    "tail": "^1.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com/m7mansfield/mc-log-post/issues"
+  },
+  "homepage": "https://github.com/m7mansfield/mc-log-post#readme"
+}
