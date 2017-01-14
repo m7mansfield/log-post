@@ -12,6 +12,7 @@
   "author": "Michael Mansfield",
   "license": "MIT",
   "dependencies": {
+    "request": "^2.79.0",
     "tail": "^1.2.1"
   },
   "bugs": {
