@@ -18,7 +18,7 @@ tail.on('line', function(data) {
         });
         body = '';
     }
-    body += data;
+    body += data + '\n';
 });
 
 tail.on('error', (data)=> {
