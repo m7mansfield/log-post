@@ -1,7 +1,7 @@
 This is a simple Node script that reads from a log file and POSTs the content line by line to a given URL in the body as `application/json` as such:
 ```
 {
-    "text": "Line from log file appears here."
+    "text": "Lines from log file here."
 }
 ```
 
